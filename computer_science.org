@@ -10,3 +10,9 @@ some start staff in it
 * Go
 * Machine-learning
 * Data mining
+* Coursera
+** TODO Programming languages course
+** TODO Progfun course
+** TODO Reactive programming course
+** TODO Machine learning course
+** TODO bioinf course
