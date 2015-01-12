@@ -1,0 +1,12 @@
+* Clojure
+
+** TODO 4cojure tasks
+   till  55
+
+** TODO clojurescrip
+
+some start staff in it
+
+* Go
+* Machine-learning
+* Data mining
