@@ -1,0 +1,10 @@
+* Tasks
+** TODO learn pareedit
+
+   cheatsheet and other
+
+** TODO learn org-mode
+
+   learn how to make todos write tasks, tables and etc..
+
+** TODO cleaneup repos and videos
